@@ -23,7 +23,7 @@ class App extends Component {
     );
     return (
       <div className="App">
-        <h1>Monsters Roledex</h1>
+        <h1>Monsters Roledex Project</h1>
         <SearchBox
           placeholder="Search Monster"
           handleSearch={(e) => this.setState({ searchField: e.target.value })}
