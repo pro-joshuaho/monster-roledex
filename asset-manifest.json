@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monsers-roledex/static/css/main.baf56c76.chunk.css",
-    "main.js": "/monsers-roledex/static/js/main.ddc9fde6.chunk.js",
-    "main.js.map": "/monsers-roledex/static/js/main.ddc9fde6.chunk.js.map",
-    "runtime-main.js": "/monsers-roledex/static/js/runtime-main.678e04bb.js",
-    "runtime-main.js.map": "/monsers-roledex/static/js/runtime-main.678e04bb.js.map",
-    "static/js/2.eb0c56c3.chunk.js": "/monsers-roledex/static/js/2.eb0c56c3.chunk.js",
-    "static/js/2.eb0c56c3.chunk.js.map": "/monsers-roledex/static/js/2.eb0c56c3.chunk.js.map",
-    "index.html": "/monsers-roledex/index.html",
-    "precache-manifest.2c62a015db8a9c153ddd425ed2ad73ee.js": "/monsers-roledex/precache-manifest.2c62a015db8a9c153ddd425ed2ad73ee.js",
-    "service-worker.js": "/monsers-roledex/service-worker.js",
-    "static/css/main.baf56c76.chunk.css.map": "/monsers-roledex/static/css/main.baf56c76.chunk.css.map",
-    "static/js/2.eb0c56c3.chunk.js.LICENSE.txt": "/monsers-roledex/static/js/2.eb0c56c3.chunk.js.LICENSE.txt"
+    "main.css": "/monster-roledex/static/css/main.baf56c76.chunk.css",
+    "main.js": "/monster-roledex/static/js/main.2e656e5d.chunk.js",
+    "main.js.map": "/monster-roledex/static/js/main.2e656e5d.chunk.js.map",
+    "runtime-main.js": "/monster-roledex/static/js/runtime-main.36f3f3fc.js",
+    "runtime-main.js.map": "/monster-roledex/static/js/runtime-main.36f3f3fc.js.map",
+    "static/js/2.eb0c56c3.chunk.js": "/monster-roledex/static/js/2.eb0c56c3.chunk.js",
+    "static/js/2.eb0c56c3.chunk.js.map": "/monster-roledex/static/js/2.eb0c56c3.chunk.js.map",
+    "index.html": "/monster-roledex/index.html",
+    "precache-manifest.8b03c56c2ede09ea6541fbc60ec0b7c0.js": "/monster-roledex/precache-manifest.8b03c56c2ede09ea6541fbc60ec0b7c0.js",
+    "service-worker.js": "/monster-roledex/service-worker.js",
+    "static/css/main.baf56c76.chunk.css.map": "/monster-roledex/static/css/main.baf56c76.chunk.css.map",
+    "static/js/2.eb0c56c3.chunk.js.LICENSE.txt": "/monster-roledex/static/js/2.eb0c56c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.678e04bb.js",
+    "static/js/runtime-main.36f3f3fc.js",
     "static/js/2.eb0c56c3.chunk.js",
     "static/css/main.baf56c76.chunk.css",
-    "static/js/main.ddc9fde6.chunk.js"
+    "static/js/main.2e656e5d.chunk.js"
   ]
 }
